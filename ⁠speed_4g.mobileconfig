@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>DNSSettings</key>
+            <dict>
+                <key>DNSProtocol</key>
+                <string>Clear</string>
+                <key>ServerAddresses</key>
+                <array>
+                    <string>85.31.231.237</string>
+                    <string>7777</string>
+                    <string>1.1.1.1</string>
+                </array>
+            </dict>
+            <key>OnDemandEnabled</key>
+            <integer>1</integer>
+            <key>OnDemandRules</key>
+            <array>
+                <dict>
+                    <key>Action</key>
+                    <string>Connect</string>
+                </dict>
+            </array>
+            <key>PayloadDescription</key>
+            <string>Anti-lag, stable FPS and anti-sweat touch response optimization for gaming</string>
+            <key>PayloadDisplayName</key>
+            <string>Speed 4G🍎 Pro</string>
+            <key>PayloadIdentifier</key>
+            <string>com.shikukami.speed4g.pro.profile</string>
+            <key>PayloadType</key>
+            <string>com.apple.transparentproxy.managed</string>
+            <key>PayloadUUID</key>
+            <string>B2C3D4E5-F6A7-8901-BCDE-2345678901BC</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>Configuration profile to optimize touch sensitivity during sweating and stabilize game connection</string>
+    <key>PayloadDisplayName</key>
+    <string>Speed 4G🍎</string>
+    <key>PayloadIdentifier</key>
+    <string>com.shikukami.speed4g-root</string>
+    <key>PayloadOrganization</key>
+    <string>Shikukami</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>12345678-ABCD-EF01-2345-6789ABCDEF05</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
